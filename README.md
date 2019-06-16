@@ -10,4 +10,7 @@ git commit -m "..."   提交版本变更并输入版本信息
 git branch
 git branch branch-name
 git status
+git merge
+git push
+git pull
 ```
